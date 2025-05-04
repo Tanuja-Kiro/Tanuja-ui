@@ -4,9 +4,7 @@ To open the project in Gitpod:
 
 1. **Open the project**:add gitpod.io/# after http:// to open the workspace in gitpod
 
-[...](https://github.com/Tanuja-ui/Certification)
-
-https://github.com/Tanuja-Kiro/Certification
+https://github.com/Tanuja-ui/Tanuja-ui
 
 2. Wait for gitpod to initialize the workspace**: Gitpod will automatically run the necessary setup commands defined in '.gitpod.yml'.
 3. **press enter/enter y and press enter till the process finish and it will automatically install all dependencies and install playwright.
