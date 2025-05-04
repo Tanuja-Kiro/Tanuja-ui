@@ -1,0 +1,22 @@
+{
+  "name": "certification",
+  "version": "1.0.0",
+  "description": "Run your first Playwright Test\r This is a Playwright configured to run in Gitpod.\r To open the project in Gitpod:",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanuja-Kiro/Certification.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanuja-Kiro/Certification/issues"
+  },
+  "homepage": "https://github.com/Tanuja-Kiro/Certification#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.3"
+  }
+}
